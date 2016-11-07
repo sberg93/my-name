@@ -1,0 +1,97 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html { 
+  background: url(baackground.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.col {
+	
+	box-sizing:border-box;
+	padding: 2%;
+	line-height:160%
+	}
+	
+	#one {
+		background-color:rgba(144,142,143,0.60); 
+	}
+	
+	.heading {
+	font-size:40px;
+	font-family: 'Oswald', sans-serif;
+	}
+	
+	
+	.subheading {
+	font-size:20px;
+	font-family: 'Roboto Slab', serif;
+	color:#FFFFFF
+
+	}
+	
+	.text {
+font-family: 'Roboto Slab', serif;
+font-size:14px;
+
+	}
+	
+	#three {
+	margin-right:23.5%;
+	margin-top:8%;
+	position:absolute;
+	left:45%;
+	
+	}
+.home1 {
+	font-size:20px;
+	font-family: 'Roboto Slab', serif; 
+	color:#D35400;
+	text-decoration:none;
+	position:absolute;
+	top:5%;
+	left:90%;
+	
+}
+
+
+.left {
+	position: absolute;
+	top: 40%;
+	left:30%;
+	/*margin-left: 400px;*/
+	float:left;
+	
+}
+
+
+#Read a:link {
+	position: absolute;
+	top: 40%;
+	left:90%;
+	hover:white; 
+	/*margin-left: 1000px; */
+}
+
+#Read a:hover {color:#FFFFFF;}
+.right {
+	position: absolute;
+	top: 40%;
+	left:90%;
+	/*margin-left: 1000px; */
+}
+
+.audio {
+	 visibility:hidden;
+ }
+ 
+ .forget {
+	 position: absolute;
+	top: 180%;
+	left:-20%;
+ }
+ 
+ 
